@@ -1,10 +1,10 @@
 # Tarea 03
 
-*Enlace a página web: https://beatriz-ahumada.github.io/Mi-primera-pagina-web/  
+**Enlace a página web:** https://beatriz-ahumada.github.io/Mi-primera-pagina-web/  
 
 ## Proceso
 
-Primero, cree el repositorio de mi primera página web,  luego cree la carpeta "docs" en donde está contemplado el "index.html" y las "Visualizaciones". Posteriormente, fui directo a la creación de la estructura del sitio usando herramientas como head, header, div, p, h1, h2, img, a, body y footer.
+Primero, cree el repositorio de mi primera página web,  luego cree la carpeta "docs" en donde está contemplado el "index.html" y las "Visualizaciones". Posteriormente, fui directo a la creación de la estructura del sitio usando herramientas como *head, header, div, p, h1, h2, img, a, body y footer.*
 
 Para esta entrega mejoré la crónica y las visualizaciones de los gráficos siguiendo las sugerencias otorgadas por la profesora, de esta forma, el relato conductor se mejoró y la relación con los gráficos también.
 
